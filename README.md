@@ -3,9 +3,6 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
   <h1 align="center">Communication LTD</h1>
   <p align="center">
   </p>
@@ -33,7 +30,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![image](https://user-images.githubusercontent.com/77243045/211169652-d5175c6a-d530-4dbc-ac68-958a14fbeec6.png)
+
 
 As part of the project, we combined the knowledge we learned as part of the cyber course, together with the principles of a development language as we learned to develop a web-based information system and a relational database.
 
